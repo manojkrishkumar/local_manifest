@@ -6,7 +6,7 @@
         
         <remote name="vendor"
                 fetch="https://github.com/anirudhkosgi" />
-        <project path="vendor/xiaomi/laurel_sprout" name="android_vendor_xiaomi_laurel_sprout" remote="vendor" revision="AEX-12" clone-depth="1" />
+        <project path="vendor/xiaomi/laurel_sprout" name="vendor_xiaomi_laurel_sprout" remote="vendor" revision="AEX-12" clone-depth="1" />
 
         <remote name="kernel"
                 fetch="https://github.com/magicxavi" />
